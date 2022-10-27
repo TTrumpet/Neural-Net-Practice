@@ -1,2 +1,2 @@
 # Neural-Net-Practice
-Team Multimedia Song Recommenders
+Team Multimedia - Song Recommenders
